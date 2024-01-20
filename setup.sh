@@ -5,6 +5,7 @@ sudo yum upgrade
 
 # -------------------------
 clear
+sudo yum install git
 sudo yum install -y golang
 sudo yum install -y bzip2
 sudo yum install -y mariadb
