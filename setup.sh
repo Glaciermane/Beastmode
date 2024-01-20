@@ -25,6 +25,7 @@ sudo yum install python3-pip
 sudo yum install -y ruby ruby-devel sqlite sqlite-devel gcc-c++ patch readline readline-devel zlib zlib-devel libffi-devel openssl-devel make
 git clone https://github.com/beefproject/beef.git
 cd beef
+./install
 bundle install
 cd
 
