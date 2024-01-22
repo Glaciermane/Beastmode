@@ -39,3 +39,6 @@ echo -e "${Red}⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                 
 echo -e "${Black}."
 echo -e "${Black}                                                    ${White}developed by Zest"
 echo -e "${White}---- Launching" 
+echo -e "${Black}                      ${White}login:${Black}      ${Whitebg}                        ${reset}${black}"
+echo -e "${Black}."
+echo -e "${Black}                      ${White}password:${Black}   ${Whitebg}                        ${reset}${black}"
